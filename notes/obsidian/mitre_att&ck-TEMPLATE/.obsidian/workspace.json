@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "7b2f1443d1f7cc52",
+    "type": "split",
+    "children": [
+      {
+        "id": "efdb96f18510f33a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4870b47fd2d1d64d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Admin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9fd132b4def058b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e72a55bf651c298",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "558701fd1338b36d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f9bc940f338853e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3bc34bd26ce2bdc3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "82171e2b36d9c9fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a287f4d704c058f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffd328f7d9cd690f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3a6a81547faf950",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Admin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5301edf2c08b4419",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Admin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25237e0c9b1ed5c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Admin.md"
+              }
+            }
+          },
+          {
+            "id": "864d708de3a08e77",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c67bf4d3248a0d71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Admin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "558701fd1338b36d",
+  "lastOpenFiles": [
+    "15 - Enumeration.md",
+    "41 - Situational Awareness.md",
+    "55 - Elevated Persistence.md",
+    "55 - Exfilitration.md",
+    "65 - Pivots.md",
+    "2024-08-06.md",
+    "01 - Admin.md",
+    "Untitled.canvas",
+    "10 - Reconnaissance.md",
+    "20 - Resource Development.md",
+    "140 - Impact.md",
+    "80 - Credential Access.md",
+    "90 - Discovery.md",
+    "100 - Lateral Movement.md",
+    "110 - Collection.md",
+    "120 - Command And Control.md",
+    "Evidence/Pasted image 20240806124321.png",
+    "02 - Evidence.md",
+    "Evidence",
+    "130 - Exfiltration.md",
+    "70 - Defense Evasion.md",
+    "60 - Privilege Escalation.md",
+    "50 - Persistence.md",
+    "40 - Execution.md",
+    "30 - Initial Access.md",
+    "03 - Tables.md",
+    "02 - Lists.md",
+    "create a link.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}
